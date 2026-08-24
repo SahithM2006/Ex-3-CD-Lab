@@ -1,4 +1,4 @@
-# Ex-3-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR-AND-USING-YACC
+<img width="1530" height="1028" alt="image" src="https://github.com/user-attachments/assets/be4289c0-9b89-4209-ab4f-679fbcf0c3f7" /># Ex-3-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR-AND-USING-YACC
 # Date:
 # AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
@@ -99,7 +99,7 @@ void yyerror(const char *s)
 }
 ```
 # OUTPUT
-<img width="700" height="448" alt="image" src="https://github.com/user-attachments/assets/b759f591-27fe-4616-a889-1054652dd342" />
+<img width="1530" height="1028" alt="image" src="https://github.com/user-attachments/assets/7e11221c-aafb-46c3-af77-ed0c6795b14b" />
 <img width="1517" height="1037" alt="image" src="https://github.com/user-attachments/assets/4c895bd0-fc5f-45fe-9a03-308148f73c96" />
 
 
