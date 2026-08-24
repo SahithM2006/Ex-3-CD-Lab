@@ -1,4 +1,4 @@
-<img width="1530" height="1028" alt="image" src="https://github.com/user-attachments/assets/be4289c0-9b89-4209-ab4f-679fbcf0c3f7" /># Ex-3-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR-AND-USING-YACC
+# Ex-3-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR-AND-USING-YACC
 # Date:
 # AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
