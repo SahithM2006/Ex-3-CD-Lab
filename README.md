@@ -100,7 +100,8 @@ void yyerror(const char *s)
 ```
 # OUTPUT
 <img width="700" height="448" alt="image" src="https://github.com/user-attachments/assets/b759f591-27fe-4616-a889-1054652dd342" />
-<img width="685" height="467" alt="image" src="https://github.com/user-attachments/assets/0ff67ede-d169-4589-be07-7d561029f54e" />
+<img width="1517" height="1037" alt="image" src="https://github.com/user-attachments/assets/4c895bd0-fc5f-45fe-9a03-308148f73c96" />
+
 
 # RESULT
 A YACC program to recognize a valid arithmetic expression that uses operator +,-,* and / is executed successfully and the output is verified.
